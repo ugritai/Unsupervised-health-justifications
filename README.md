@@ -1,4 +1,7 @@
-![logo](images/logo.png)
+
+<p align="center">
+  <img width="300"  src="images/logo.png">
+</p>
 
 
 # Unsupervised Mining of Health implications of nutrient consumption.
